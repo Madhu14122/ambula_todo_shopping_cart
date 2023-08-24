@@ -1,0 +1,15 @@
+td {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+th {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.toast-position {
+  top: 3.5rem !important;
+}
+
+/* .add-cart-button */
